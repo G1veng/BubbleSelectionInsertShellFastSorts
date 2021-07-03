@@ -1,0 +1,45 @@
+compares and changes:
+6 15
+results:
+type of sort	|changes	|compares
+	|	6	|	15
+	|	4	|	15
+	|	6	|	12
+	|	6	|	6
+	|	0	|	0
+compares and changes:
+4 15
+results:
+type of sort	|changes	|compares
+	|	6	|	15
+	|	4	|	15
+	|	6	|	12
+	|	6	|	6
+	|	0	|	0
+compares and changes:
+6 12
+results:
+type of sort	|changes	|compares
+	|	6	|	15
+	|	4	|	15
+	|	6	|	12
+	|	6	|	6
+	|	0	|	0
+compares and changes:
+6 6
+results:
+type of sort	|changes	|compares
+	|	6	|	15
+	|	4	|	15
+	|	6	|	12
+	|	6	|	6
+	|	0	|	0
+compares and changes:
+0 0
+results:
+type of sort	|changes	|compares
+	|	6	|	15
+	|	4	|	15
+	|	6	|	12
+	|	6	|	6
+	|	0	|	0

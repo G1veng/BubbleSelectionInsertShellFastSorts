@@ -1,0 +1,7 @@
+results:
+type of sort	|changes	|compares
+BubbleSort:	|	16	|	30
+SellectionSort:	|	8	|	30
+InsertSort:	|	16	|	32
+ShellSort:	|	12	|	12
+FastSort:	|	0	|	0
